@@ -1,5 +1,2 @@
 # OrganizacionDeDatos
-En el repo hay distinto material de la materia Organizacion de datos:
-\begin{itemize}
-  \item Ejercicios de las guias resueltos
-\end{itemize}
+En el repo hay distinto material de la materia Organizacion de datos: ejercicios que resolvi de las guias, parciales viejos, etc
