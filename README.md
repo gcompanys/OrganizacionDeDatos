@@ -1,2 +1,5 @@
 # OrganizacionDeDatos
-El repo contiene ejercicio que resuelvo delas guias de la materia Organizacion de datos + alguna que otra cosa
+En el repo hay distinto material de la materia Organizacion de datos:
+\begin{itemize}
+  \item Ejercicios de las guias resueltos
+\end{itemize}
